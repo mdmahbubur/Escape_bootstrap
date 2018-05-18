@@ -1,0 +1,296 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    font-family: 'Lato', sans-serif;
+}
+
+header {
+    background-image: url(../images/bg1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 520px;
+}
+
+
+.custom_header{
+    padding-top: 20px;
+}
+
+
+.custom_ul{
+    
+}
+.custom_ul ul li a{
+    padding: 10px 15px !important;
+    display: block;
+    transition: 2s;
+}
+
+
+
+.header_btn {
+/*    background-color: white !important;*/
+    border: 2px solid white !important;
+    color: white;
+}
+
+.icon_clr{
+    color: white;
+/*    background-color: white;*/
+}
+
+.header_a {
+    color: white !important;
+ 
+}
+
+.header_contant {
+    text-align: center;
+    color: white;
+    margin-top: 140px;
+}
+
+.header_h1 {
+    margin-bottom: 70px;
+    margin-top: 50px;
+}
+
+.header_btn2 {
+    background-color: transparent;
+    padding: 10px 40px;
+    border: 2px solid white;
+    color: white;
+    text-transform: uppercase;
+    font-weight: bold;
+    transition: 2s;
+}
+
+
+.header_btn2:hover{
+    background-color: aliceblue;
+    color: #33263e;
+}
+
+
+.services,
+.web {
+    min-height: 440px;
+    overflow: hidden;
+    background-color: white;
+    padding-top: 95px;
+    overflow: hidden;
+}
+
+
+web {
+    min-height: 440px;
+    overflow: hidden;
+    background-color: white;
+    padding-top: 95px;
+}
+
+.web_text{
+    float: left;
+/*    width: 60%;*/
+}
+
+.web_img {
+/*    margin-left: 20px;*/
+    float: right;
+/*    width: 30%;*/
+}
+
+.identity,
+.clients {
+    min-height: 440px;
+    overflow: hidden;
+    background-color: #fafafa;
+    padding-top: 95px;
+    overflow: hidden;
+}
+
+.identy_img {
+/*    margin-right: 20px;*/
+    float: left;
+}
+
+.identy_text{
+    float: right;
+}
+
+.service_img {
+    float: left;
+}
+
+.service_text {
+    float: right;
+}
+
+.service_text h1 {
+    font-size: 22px;
+    color: #222222;
+
+}
+
+
+.common_header {
+    text-align: center;
+    overflow: hidden;
+    margin-top: 90px;
+    margin-bottom: 70px;
+}
+
+.left_client {
+    float: left;
+    text-align: center;
+    width: auto;
+}
+
+.right_text {
+    float: right;
+    /*
+    height: 170px;
+    width: auto;
+    background-color: white;
+*/
+    height: 170px;
+    background-image: url(../images/bg2.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-top: 70px;
+    margin-top: 40px;
+    text-align: center;
+}
+
+
+.clients {
+    min-height: 840px;
+    overflow: hidden;
+    background-color: #fafafa;
+    padding-top: 95px;
+}
+
+
+.signle_client {
+    min-height: 620px;
+    overflow: hidden;
+}
+
+.left_client_reverse {
+    float: right;
+    /*
+    height: 170px;
+    width: auto;
+    background-color: white;
+*/
+    height: 170px;
+    background-image: url(../images/bg3.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-top: 70px;
+    margin-top: 40px;
+    text-align: center;
+}
+
+.bg{
+    background-image: url(../images/bg3.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-top: 70px;
+    margin-top: 40px;
+    text-align: center;
+     height: 170px;
+     float: right;
+     width: auto;
+/*
+     float: right;
+    
+    height: 170px;
+    width: auto;
+    background-color: white;
+
+    height: 170px;
+    background-image: url(../images/bg2.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-top: 70px;
+    margin-top: 40px;
+    text-align: center;
+*/
+}
+
+.right_text_reverse {
+    float: left;
+    text-align: center;
+    width: auto;
+}
+
+
+.client_service {
+    background-color: white;
+
+
+    min-height: 160px;
+    display: flex;
+    overflow: hidden;
+}
+
+
+.client_service_img {
+    text-align: center;
+}
+
+
+
+.team {
+    background-color: #111111;
+    min-height: 800px;
+    color: white;
+    text-align: center;
+    overflow: hidden;
+}
+
+
+.custom_icon {
+    height: 35px;
+    width: 32px;
+    border: 2px solid white;
+    border-radius: 50%;
+
+    padding-top: 9px;
+
+}
+
+.social_block{
+    margin-bottom: 100px;
+}
+
+
+
+.footer {
+/*    min-height: 640px;*/
+    background-color: #7690c5;
+    padding-top: 90px;
+    color: white;
+}
+
+.icon_text {
+    margin-left: 10px;
+}
+
+.single_footer_social {
+    margin-bottom: 15px;
+}
+
+.footer_last {
+    text-align: center;
+    margin-top: 120px;
+}
+
+.footer_last p{
+        margin-bottom: 0px !important;
+    padding-bottom: 20px;
+    }

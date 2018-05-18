@@ -1,0 +1,434 @@
+@media (min-width: 0px) and (max-width:320px){
+    .service_text{
+/*        text-align: center;*/
+        float: right;
+        width: 60%;
+        margin-left: 0;
+        padding-left: 0;
+    }
+    
+    .services{
+        padding-top: 50px;
+    }
+    
+    .single_service{
+        margin-bottom: 20px;
+    }
+    
+    .service_text h1{
+        font-size: 13px;
+        
+    }
+    .service_text p{
+        font-size: 10px;
+    }
+    .service_img{
+/*        text-align: center;*/
+        float: left;
+        width: 30%;
+        margin-right: 0;
+        padding-right: 0;
+    }
+    
+    .client_service_img{
+        width: 100%;
+    }
+    
+    header{
+        min-height: 320px;
+    }
+    
+    .header_btn2 {
+    margin-bottom: 30px;
+}
+    
+    .header_contant {
+   
+    margin-top: 80px;
+}
+    .header_contant h3{
+        font-size: 16px;
+    }
+    
+     .header_contant h1{
+        font-size: 20px;
+             margin-bottom: 50px;
+    margin-top: 30px;
+    }
+    
+    
+     .web{
+        text-align: center;
+    }
+    .web_img{
+   float: none;
+            padding-bottom: 20px;
+    }
+    
+    .web_text h1{
+        font-size: 30px;
+    }
+    
+    
+     .identity{
+        text-align: center;
+    }
+    .identy_img{
+   float: none;
+        padding-bottom: 20px;
+    }
+    
+    .common_header h1{
+        font-size: 20px;
+    }
+    
+    .common_header p{
+        font-size: 15px;
+    }
+    
+    .identy_text h1{
+        font-size: 30px;
+    }
+    
+    .clients{
+        text-align: center;
+        padding-top: 15px;
+    }
+    .left_client {
+    margin-left: 28px;
+}
+    
+    .right_text{
+/*            padding-top: 15px;*/
+    margin-top: 20px;
+            padding-top: 25px;
+    }
+    
+    .client_service_img{
+        margin-bottom: 15px;
+    }
+    
+    .single_block{
+        margin-bottom: 20px;
+    }
+     .footer{
+        text-align: center;
+    }
+    
+    .footer_last {
+    text-align: center;
+    margin-top: 15px;
+        font-size: 10px;
+}
+    
+    
+    .bg{
+    background-image: url(../images/bg3.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+   margin-bottom: 20px;
+    text-align: center;
+}
+    
+}
+
+
+
+@media (min-width: 321px) and (max-width:575px){
+    .service_text{
+/*        text-align: center;*/
+        float: right;
+/*        width: 60%;*/
+        margin-left: 0;
+        padding-left: 0;
+            width: 70%;
+    }
+    
+    .services{
+        padding-top: 50px;
+    }
+    
+    .single_service{
+        margin-bottom: 20px;
+    }
+    
+    
+    
+    .service_text h1{
+        font-size: 20px;
+        
+    }
+    .service_text p{
+        font-size: 15px;
+    }
+    .service_img{
+/*        text-align: center;*/
+        float: left;
+        width: 30%;
+        margin-right: 0;
+/*        padding-right: 0;*/
+        text-align: center;
+    }
+    
+    .client_service_img{
+        width: 100%;
+    }
+    
+    header{
+        min-height: 320px;
+    }
+    
+    .header_btn2 {
+    margin-bottom: 30px;
+}
+    
+    .header_contant {
+   
+    margin-top: 80px;
+}
+    .header_contant h3{
+        font-size: 16px;
+    }
+    
+    .right_text{
+        padding-top: 30px;
+        
+    }
+    
+     .header_contant h1{
+        font-size: 20px;
+             margin-bottom: 50px;
+    margin-top: 30px;
+    }
+    
+    
+     .web{
+        text-align: center;
+    }
+    
+   .web_img {
+       float: none;
+    text-align: center;
+           padding-bottom: 20px;
+}
+  
+    
+    .web_text h1{
+        font-size: 30px;
+    }
+    
+    
+    .left_client{
+        margin: 0 auto;
+    }
+    
+     .identity{
+        text-align: center;
+    }
+    .identy_img{
+   float: none;
+        padding-bottom: 20px;
+    }
+    
+    .identy_text h1{
+        font-size: 30px;
+    }
+    
+    .clients{
+        text-align: center;
+    }
+    
+    .bg {
+    background-image: url(../images/bg3.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-top: 30px;
+    margin-top: 40px;
+    text-align: center;
+}
+/*
+    .left_client{
+    margin-left: 100px;
+            margin-bottom: 15px;
+    }
+*/
+    
+    
+    .left_client {
+    /* float: left; */
+    text-align: center;
+    /* width: auto; */
+}
+    
+    .client_service_img{
+        margin-bottom: 15px;
+            padding: 10px;
+    }
+    
+    .single_block{
+        margin-bottom: 20px;
+    }
+    
+    .footer{
+        text-align: center;
+    }
+    
+    
+    .footer_last {
+    text-align: center;
+    margin-top: 15px;
+}
+    
+    .bg{
+    background-image: url(../images/bg3.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+   margin-bottom: 20px;
+    text-align: center;
+}
+
+    
+    }
+
+
+/*small*/
+
+@media (min-width: 576px) and (max-width:767px) {
+   .header_right{
+        margin-right: auto;
+    }
+    
+    
+    .header_btn2 {
+    margin-bottom: 30px;
+}
+    .web{
+        text-align: center;
+    }
+    .web_img{
+   float: none;
+            padding-bottom: 20px;
+    }
+    
+    
+     .identity{
+        text-align: center;
+    }
+    .identy_img{
+   float: none;
+        padding-bottom: 20px;
+    }
+    
+    
+    .clients{
+        padding: 50px;
+    }
+    
+    .left_client{
+        float: left;
+        width: 30%;
+    }
+    
+    .right_text{
+        float: right;
+        width: 60%;
+        text-align: center;
+    }
+    .client_service_img{
+        margin-bottom: 15px;
+    }
+    
+    .single_block{
+        margin-bottom: 20px;
+    }
+    
+    
+    .footer_header{
+        text-align: center;
+    }
+    
+    
+    .footer_last {
+    text-align: center;
+    margin-top: 50px;
+}
+    .footer_last p{
+        margin-bottom: 0px !important;
+    }
+
+}
+
+
+@media (min-width: 768px) and (max-width:991px) 
+{ 
+    .header_right{
+        margin-right: auto;
+    }
+    
+    
+    .header_btn2 {
+    margin-bottom: 30px;
+}
+    
+    
+    .clients{
+        padding: 60px;
+    }
+    
+    .footer{
+        min-height: 540px;
+    }
+    
+    .client_service {
+    background-color: white;
+    min-height: 80px;
+    display: flex;
+    overflow: hidden;
+    padding-top: 25px;
+    }
+    
+    .signle_client {
+    min-height: 500px;
+    overflow: hidden;
+}
+    .common_header{
+            margin-top: 20px;
+    }
+    
+    .team{
+        min-height:0px;
+    }
+    
+    .single_team{
+            margin-bottom: 40px;
+    }
+    
+    .custom_pd p{
+            margin-top: -30px;
+    }
+    
+    
+
+}
+
+/* Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199px) { 
+      .header_right{
+        margin-right: auto;
+    }
+    
+    .client_img{
+        margin-top: 60px;
+    }
+    
+    .social_block{
+        margin-bottom: 100px;
+    }
+}
+
+/* Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) { 
+    .client_img{
+            margin-top: 60px;
+    }
+}
